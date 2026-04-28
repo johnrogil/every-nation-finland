@@ -2,7 +2,6 @@
   "buildCommand": "pnpm run build",
   "installCommand": "pnpm install --frozen-lockfile",
   "outputDirectory": "dist",
-  "nodeVersion": "20.x",
   "env": {
     "NODE_ENV": "production"
   },
