@@ -9,7 +9,7 @@ import Home from "./pages/Home";
 import CityPage from "./pages/CityPage";
 
 // Toggle maintenance mode here - set to true to show maintenance page
-const MAINTENANCE_MODE = false;
+const MAINTENANCE_MODE = true;
 
 function Router() {
   // If maintenance mode is enabled, show maintenance page for all routes
